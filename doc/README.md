@@ -34,18 +34,12 @@
 
 ###  Links
 
-;####    Adafruit -   DHT11, DHT22 and AM2302 Sensors
-
 [Adafruit DHT sensors](https://learn.adafruit.com/dht)
-
-;####    ESP32 with DHT11/DHT22 Temperature and Humidity Sensor using Arduino IDE
 
 [ESP32 with DHT sensors](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/)
 
 
 ### Videos
-
-;####    Using DHT22 Temperature Sensor (ESP32 + Arduino series)
 
 [Using DHT22 sensor with ESP32](https://www.youtube.com/watch?v=IPrEjQn_cTM)
 
